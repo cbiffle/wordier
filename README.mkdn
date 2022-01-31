@@ -1,0 +1,4 @@
+# Wordier versions of Rust APIs
+
+In some cases, the standard library's choice of names for things is so terse
+that it confuses me. This crate provides alternatives.
